@@ -1,4 +1,5 @@
 import { Resend } from 'resend';
+import 'dotenv/config';
 export const resend = new Resend(process.env.RESEND_API_KEY);
 import verificationEmail from "../../emails/verificationEmail";
 
@@ -9,8 +10,8 @@ export const sendVerificationEmail=async(username:string, email:string, verifyCo
     try {
 
         await resend.emails.send({
-            from: 'onboarding@resend.dev',
-            to: email,
+            from: 'Acme <onboarding@resend.dev>',
+            to:[email],
             subject: 'tru-feedback | verification email',
             react: verificationEmail({username, otp:verifyCode}),
           });
