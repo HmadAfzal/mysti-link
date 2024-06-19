@@ -50,7 +50,7 @@ export async function GET(request: Request) {
 
     return Response.json({
       success: true,
-      mnessage: "username is avalible",
+      mnessage: "Username is avalible",
     });
   } catch (error) {
 
