@@ -1,6 +1,6 @@
-# MystyLink
+# MystiLink
 
-MystyLink is a mysterious messaging application that allows users to send and receive messages anonymously through generated links. Users can sign up or log in to the platform, get a unique link, and share it with others. The recipients can use this link to send messages back to the sender, including AI-generated messages, while maintaining sender's Identity. 
+MystiLink is a mysterious messaging application that allows users to send and receive messages anonymously through generated links. Users can sign up or log in to the platform, get a unique link, and share it with others. The recipients can use this link to send messages back to the sender, including AI-generated messages, while maintaining sender's Identity. 
 
 ![App SS](/public/home.png)
 ## Features
