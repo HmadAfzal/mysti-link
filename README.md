@@ -7,12 +7,12 @@ MystiLink is a mysterious messaging application that allows users to send and re
 [👁Demo Link:](https://youtu.be/lnlW6sqMfik) 👈 Click here
 ## Features
 
-- **User Authentication 🎃**: Users can sign up or log in to the platform securely.
-- **Account verification 🔐**: Users can verify their account through email.
-- **Unique Links 🔗**: Each user receives a unique link that can be shared with others for messaging.
-- **Anonymous Messaging 👓**: Recipients can send messages anonymously using the provided link.
-- **AI-Generated Messages 🤖**: Users can choose to send AI-generated messages.
-- **Message Viewing 👀**: Senders can view received messages, but the sender's identity remains anonymous to the receiver.
+- **🎃 User Authentication**: Users can sign up or log in to the platform securely.
+- **🔐 Account verification**: Users can verify their account through email.
+- **🔗 Unique Links**: Each user receives a unique link that can be shared with others for messaging.
+- **👓 Anonymous Messaging**: Recipients can send messages anonymously using the provided link.
+- **🤖 AI-Generated Messages**: Users can choose to send AI-generated messages.
+- **👀 Message Viewing**: Senders can view received messages, but the sender's identity remains anonymous to the receiver.
   
 ## Getting Started
 
