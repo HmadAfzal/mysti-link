@@ -31,7 +31,7 @@ To get started with MystyLink, follow these steps:
 - **Database**: MongoDB
 - **Authentication**: NextAuth
 - **Email verification**: resend.com
-- **AI**: Verce/Ai
+- **AI**: Vercel/Ai
 
 ### Setup .env file
 
